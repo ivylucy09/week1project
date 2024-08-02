@@ -1,0 +1,39 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "date": "2021-01-01",
+      "description": "Groceries",
+      "category": "Food",
+      "amount": 50.75
+    },
+    {
+      "id": "2",
+      "date": "2021-01-02",
+      "description": "Rent",
+      "category": "Housing",
+      "amount": 1200
+    },
+    {
+      "id": "da92",
+      "date": "2024-08-03",
+      "description": "lend",
+      "category": "money",
+      "amount": 6000
+    },
+    {
+      "id": "5387",
+      "date": "2024-08-09",
+      "description": "top",
+      "category": "money",
+      "amount": 2000
+    },
+    {
+      "id": "5387",
+      "date": "2024-08-09",
+      "description": "top",
+      "category": "money",
+      "amount": 2000
+    }
+  ]
+}
